@@ -15,6 +15,7 @@ To run this script, you need to have [Python](https://www.python.org/downloads/)
 
 ```bash
 pip install beautifulsoup4 pandas requests
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
